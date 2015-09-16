@@ -5,7 +5,16 @@ permalink: /about/
 published: true
 ---
 
-Hello! My name is Joe Ainsworth and I'm based in Truro, Cornwall. I have a background in ecommerce but really enjoy creating and coding. Pushing changes to thousands of people excites me and is one of my ultimate goals. Thus I'm self-training to become a full stack web developer using online resources only.  If you live in London you may have noticed the rise of coding bootcamps. These bootcamps tend to be intensive 6+ week courses and require students to either leave their job or take a long period of time off. Not to mention these courses can cost upwards of £6,000. My girlfriend and I have just bought a house and I can't afford this amount of money or not to have a job. Whilst the resources I use may not be free I expect they'll be more affordable. I'm going to go down the Ruby route and then take on Rails. I'll be documenting my journey along the way with the hope of helping or inspiring others.
+
+Hello! 
+
+My name is Joe Ainsworth and I'm based in Truro, Cornwall. I have a background in ecommerce but really enjoy coding.
+
+I'm self-training to become a full stack web developer using online resources only. There has been a big rise in coding bootcamps but they're super expensive and most of them are based in London.
+
+Whilst some of the resources I use may not be free I've spent a lot of time researching them. My aim is to blog my journey with the hope of helping or inspiring others. I'll review the resources and let you know if I'd recommend them.
+
+Eventually I would love to be able to work on software projects or applications with other developers that share the same passion or to launch my own product. Either way, doing something I enjoy for a career is my ultimate goal!
 
 ### Contact me
 
