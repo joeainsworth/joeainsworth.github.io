@@ -1,10 +1,21 @@
 ---
 layout: post
-title: You're up and running!
+title: A bit of history..
+published: false
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Well, here I am. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+I've always thought about starting a blog but had never got round to it... 
+
+Finally I've found a reason to blog. I'm on a journey to become a self-taught full stack developer. 
+
+I'm a bit of a self confessed geek who's always had an interest in tinkering with technology. As a kid I taught myself HTML & CSS. These skills have been suprisingly useful throughout my life. From building websites for friends, running community based sites through to editing or creating employers websites. Knowing the basics has always helpful. I progressed on to PHP but only ever hacked bits and pieces of code together. I couldn't write anything elegently. 
+
+I've been through College and University. Back to the present and I'm currently employed in the field of ecommerce (more exciting than it sounds) for a local company and have achieved great success in building their online presence and increasing online revenue. This achievement was recognised by Unlocking Potential and I was awarded the prestigious 'Contribution to Business Growth' award in June 2015.
+
+Whilst I enjoy my job it's opened my eyes to the power of developers. Developers are magical people that I get to liase with. They're responsible for typing code that make computers do their thing and the internet tick tock. They're modern day craftspeople that blend programming and logic with dashings of creativity to solve real world business problems and much more. It's this relationship with developers that has reignitated my passion for code in a big way and got my mind wondering.... "If I could code I would do that differently". I'm envious when they push changes affect 1,000's of people.
+
+It's going to be tough but I've got the commitment and enthusiasm to see it through. 
+
