@@ -1,16 +1,12 @@
 ---
 layout: post
-title: A bit of history..
+title: "So, lets begin!"
 published: true
 ---
 
 
 
-Well, here I am. 
-
-I've always thought about starting a blog but had never got round to it... 
-
-Finally I've found a reason to blog. I'm on a journey to become a self-taught full stack developer. 
+Well, here I am. I've always thought about starting a blog but had never got round to it. Finally I've found a reason to blog. I'm on a journey to become a self-taught full stack developer. 
 
 I'm a bit of a self confessed geek who's always had an interest in tinkering with technology. As a kid I taught myself HTML & CSS. These skills have been suprisingly useful throughout my life. From building websites for friends, running community based sites through to editing or creating employers websites. Knowing the basics has always helpful. I progressed on to PHP but only ever hacked bits and pieces of code together. I couldn't write anything elegently. 
 
