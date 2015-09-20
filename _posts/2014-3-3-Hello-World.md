@@ -1,8 +1,9 @@
 ---
 layout: post
 title: A bit of history..
-published: false
+published: true
 ---
+
 
 
 Well, here I am. 
@@ -15,7 +16,6 @@ I'm a bit of a self confessed geek who's always had an interest in tinkering wit
 
 I've been through College and University. Back to the present and I'm currently employed in the field of ecommerce (more exciting than it sounds) for a local company and have achieved great success in building their online presence and increasing online revenue. This achievement was recognised by Unlocking Potential and I was awarded the prestigious 'Contribution to Business Growth' award in June 2015.
 
-Whilst I enjoy my job it's opened my eyes to the power of developers. Developers are magical people that I get to liase with. They're responsible for typing code that make computers do their thing and the internet tick tock. They're modern day craftspeople that blend programming and logic with dashings of creativity to solve real world business problems and much more. It's this relationship with developers that has reignitated my passion for code in a big way and got my mind wondering.... "If I could code I would do that differently". I'm envious when they push changes affect 1,000's of people.
+Whilst I enjoy my job it's opened my eyes to the power of developers. Developers are magical people that I get to liase with. They're responsible for typing code that make computers do their thing and the internet tick tock. They're modern day craftspeople that blend programming and logic with dashings of creativity to solve real world business problems and much more. It's this relationship with developers that has reignitated my passion for code in a big way. I've done numerous Treehouse courses to get myself back up to speed with HTML5 and CSS3. I've followed Michael Hartls tutorial but realised I didn't actually know what I was typing, it was more code copying. Thus, I decided to focus on learning Ruby from the ground up and drilling the fundamentals. I've worked my way through lots of online materials and would highly recommend Pragmatic Studios Ruby course as well as Tealeafs books and I'll provide more information about these in the future.
 
-It's going to be tough but I've got the commitment and enthusiasm to see it through. 
-
+That's all for now, happy coding!
