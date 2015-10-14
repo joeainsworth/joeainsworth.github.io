@@ -2,7 +2,6 @@
 published: true
 ---
 
-
 ---
 layout: post
 title: Pragmatic Studio Ruby Course Review
