@@ -2,11 +2,6 @@
 published: true
 ---
 
----
-layout: post
-title: Pragmatic Studio Ruby Course Review
----
-
 I decided to take the relatively inexpensive plunge and invested in the [Pragmatic Studio's Ruby](https://pragmaticstudio.com/ruby) course. 
 
 The course is hosted by Mike and Nicole Clark. Mike is a great tutor and Nicole, his sidekick (and wife), is also pretty good. The two of them work really well together and it is definetely more interesting having the two tutors. 
