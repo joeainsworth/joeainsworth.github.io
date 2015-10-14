@@ -2,7 +2,10 @@
 published: true
 ---
 
-[front-matter](http://jekyllrb.com/docs/frontmatter/)
+---
+layout: post
+title: Pragmatic Studio Ruby Course Review
+---
 
 I decided to take the relatively inexpensive plunge and invested in the [Pragmatic Studio's Ruby](https://pragmaticstudio.com/ruby) course. 
 
