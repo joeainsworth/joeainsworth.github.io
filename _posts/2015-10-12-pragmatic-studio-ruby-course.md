@@ -2,7 +2,7 @@
 published: true
 ---
 
-
+[front-matter](http://jekyllrb.com/docs/frontmatter/)
 
 I decided to take the relatively inexpensive plunge and invested in the [Pragmatic Studio's Ruby](https://pragmaticstudio.com/ruby) course. 
 
@@ -17,4 +17,3 @@ Towards the latter of the course things got a bit tricky, mainly because the adv
 You code two programs in parrallel, one project is built whilst watching videos. The other is used to reinforce the topics covered in the earlier videos and really helps to reinforce these concepts. There is an extra project students can work through and I will be coming back to this in the future. I followed all the exercises and pushed them to Github, you'll get a good idea about the content of the course by following [this link](https://github.com/joeainsworth/programming_exercises/tree/master/Pragmatic%20Studo%20-%20Ruby%20Programming) to my repo.
 
 Overall this is a great course for anybody who wants to get in Ruby. I would imagine even the most experienced developers will find the course useful to quickly get a grasp on the Ruby syntax and expressive style of programming. **Would recommend.**
-
