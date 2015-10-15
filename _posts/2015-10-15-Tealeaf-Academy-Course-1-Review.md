@@ -14,6 +14,6 @@ In week 4 I added betting to the Blackjack app. Players could now play for virtu
 
 Here's a little demo of the app..
 
-[Blackjack-Sinatra.gif]({{site.baseurl}}/posts/Blackjack-Sinatra.gif)
+[Blackjack-Sinatra.gif](https://github.com/joeainsworth/joeainsworth.github.io/blob/master/_posts/Blackjack-Sinatra.gif?raw=true)
 
 I also [depolyed it to Heroku](http://sleepy-sea-1270.herokuapp.com). If you fancy giving it a whirl don't bet more than you can afford to loose!!
