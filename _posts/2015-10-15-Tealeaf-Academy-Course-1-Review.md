@@ -1,6 +1,7 @@
 ---
-published: false
+published: true
 ---
+
 
 As if things hadn't got funky enough with last weeks OOP we changed gears and switched tracks to focus on web development. We got down to the nitty gritty of HTTP, kicked our Blackjack game into shape with Sinatra and added interactivity with Javascript, yew!!
 
@@ -15,4 +16,3 @@ Here's a little demo of the app..
 ![Blackjack app]({{site.baseurl}}/_posts/Blackjack-Sinatra.gif)
 
 I also [depolyed it to Heroku](http://sleepy-sea-1270.herokuapp.com). If you fancy giving it a whirl don't bet more than you can afford to loose!![Blackjack-Sinatra.gif]({{site.baseurl}}/_posts/Blackjack-Sinatra.gif)
-
