@@ -1,4 +1,5 @@
 ---
+layout: post
 published: "true"
 title: "Tealeaf Academy Week 1 Review"
 ---
