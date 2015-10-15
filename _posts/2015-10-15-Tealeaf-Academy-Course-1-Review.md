@@ -1,7 +1,8 @@
 ---
+layout: post
+title: "Tealeaf Academy Ruby Course Review"
 published: true
 ---
-
 
 As if things hadn't got funky enough with last weeks OOP we changed gears and switched tracks to focus on web development. We got down to the nitty gritty of HTTP, kicked our Blackjack game into shape with Sinatra and added interactivity with Javascript, yew!!
 
